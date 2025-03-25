@@ -1,2 +1,3 @@
-# ds2002project1
-Data Project 1 for DS2002
+# Data Project 1 for DS2002
+# Daniel Song (yen2pn)
+# Joshua Yu ()
